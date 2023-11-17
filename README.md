@@ -1,4 +1,4 @@
-# minecraft_website
+The Minecraft website 
 
 Bienvenidos a todos! 
 Este es el repositorio del sitio web de Minecraft :)
