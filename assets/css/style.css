@@ -37,14 +37,14 @@
 }
 
 .navbar-brand .navbar-item, .navbar-menu .navbar-item {
-    color: #fff
+    color: #fff;
 }
 
 .fixed {
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 10
+    z-index: 10;
 }
 
 .has-small-margin {
@@ -105,3 +105,5 @@
 .section.is-light {
     background: #eee
 }
+
+/*my new styles*/
